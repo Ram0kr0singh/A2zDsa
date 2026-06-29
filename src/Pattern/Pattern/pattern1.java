@@ -1,8 +1,8 @@
 package Pattern.Pattern;
 
-//Given an integer n. You need to recreate the pattern
+//Given an integer n. You need to recreate the pattern3
 // given below for any value of N. Let's say for N = 5,
-// the pattern should look like as below:
+// the pattern3 should look like as below:
 //        *****
 //        *****
 //        *****
